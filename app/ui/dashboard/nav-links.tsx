@@ -1,5 +1,4 @@
 'use client';
-// mudança qualquer
 
 import {
   UserGroupIcon,
